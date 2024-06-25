@@ -3,10 +3,8 @@ name: ESLint
 on:
   push:
     branches:
-      - main  # Vous pouvez changer la branche ici si nécessaire
-      - master
-  pull_request:
-    branches: [ main ]
+      - main 
+      - dev
 
 jobs:
   lint:

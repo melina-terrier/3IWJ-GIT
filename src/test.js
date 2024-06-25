@@ -1,6 +1,6 @@
 // test.js
 
-var foo = "bar";
+var foo = "bar"
 var test = 'bar';
 
 function helloWorld() {

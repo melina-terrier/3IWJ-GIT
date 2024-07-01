@@ -41,6 +41,6 @@ Mmebership integration
 See the [CONTRIBUTING](https://github.com/melina-terrier/3IWJ-git/blob/dev/CONTRIBUTING.md) guidelines for how to contribute to this project.
 
 # Code of Conduct 
-This project adheres to the Code of Conduct outlined in the [CODE_OF_CONDUCT.md](https://github.com/melina-terrier/3IWJ-git/blob/dev/CODE_OF_CONDUCT.md) file.
+This project adheres to the Code of Conduct outlined in the [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) file.
 
 
